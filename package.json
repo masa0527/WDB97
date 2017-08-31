@@ -1,0 +1,23 @@
+{
+  "name": "wdb97",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masa0527/WDB97.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "lodash": "^4.17.4"
+  },
+  "bugs": {
+    "url": "https://github.com/masa0527/WDB97/issues"
+  },
+  "homepage": "https://github.com/masa0527/WDB97#readme"
+}
