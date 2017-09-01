@@ -9,7 +9,7 @@ let count = 0;
 const countTemplate = `<span id='count'><%= count %></span>`;
 
 const template = `
-<div>こんにちは、あなたは ${countTemplate} 番目のお客様です。</div>
+<div>こんにちは、あなたは ${countTemplate} 番目のお客様です◝(⁰▿⁰)◜。</div>
 <button id='button'>count up</button>
 <script>
   // クライアントサイドレンダリング部分
