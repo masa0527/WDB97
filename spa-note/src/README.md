@@ -18,7 +18,7 @@ http://wdpress-vol97-frontend-sample-app.s3-website-ap-northeast-1.amazonaws.com
 ## Development
 
 ```
-$ yarn install
-$ yarn start
+$ npm install
+$ npm start
 $ open http://localhost:8080/
 ```
